@@ -79,7 +79,3 @@ This program does not have any external dependencies. It uses standard C librari
 ## Contributing
 
 Contributions to the Online Store Management System are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
