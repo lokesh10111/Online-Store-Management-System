@@ -31,7 +31,7 @@ To compile and run the Online Store Management System, follow these steps:
 3. Compile the code using the following command:
 
    ```
-   gcc -o store management.c userAuth.c
+   gh repo clone lokesh10111/Online-Store-Management-System
    ```
 
 4. Run the compiled executable:
