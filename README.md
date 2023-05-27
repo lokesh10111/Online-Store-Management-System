@@ -15,12 +15,20 @@ The Online Store Management System provides the following features:
 ### Customer Features
 
 1. Display the list of products in the store
-2. Sort and display products by price
+2. Sort and display products by price using a sorting algorithm
 3. Add a product to the shopping cart
 4. View the contents of the shopping cart
 5. Print a bill for the items in the cart
 6. Save order details and clear the cart
 7. View order history
+
+## Implementation Details
+
+The system is implemented using several key concepts and algorithms, including:
+
+- **Linked List**: The product list and shopping cart are implemented using linked lists, allowing for dynamic storage and efficient insertion and deletion operations.
+
+- **Sorting Algorithm**: The system incorporates a sorting algorithm to sort and display products by price. The specific sorting algorithm used can vary based on the implementation, such as bubble sort, insertion sort, or quicksort.
 
 ## Getting Started
 
@@ -31,7 +39,7 @@ To compile and run the Online Store Management System, follow these steps:
 3. Compile the code using the following command:
 
    ```
-   gh repo clone lokesh10111/Online-Store-Management-System
+   gcc -o store management.c userAuth.c
    ```
 
 4. Run the compiled executable:
@@ -60,7 +68,7 @@ To access the customer features, choose **Customer** when prompted. You will be 
 Once in customer mode, you can choose from the following options:
 
 1. Display Products: View the list of products in the store.
-2. Sort and Display Products: Sort the products by price and display them.
+2. Sort and Display Products: Sort the products by price using a sorting algorithm and display them.
 3. Buy Product: Enter the name of a product to add it to your shopping cart.
 4. View Cart: View the contents of your shopping cart.
 5. Print Bill: Generate a bill for the items in your cart.
@@ -78,4 +86,6 @@ This program does not have any external dependencies. It uses standard C librari
 
 ## Contributing
 
-Contributions to the Online Store Management System are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to the Online Store Management System are welcome! If you find any issues or
+
+ have suggestions for improvements, feel free to open an issue or submit a pull request.
