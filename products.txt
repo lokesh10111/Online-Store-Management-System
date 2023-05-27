@@ -1,0 +1,36 @@
+1001
+Redmi Note 15 Pro
+67500.00
+5g Flyable Phone
+1002
+samsung galaxy A34
+29999.00
+5g 8gb ram
+1003
+Oneplus Nord CE 2
+19999.00
+8gb Ram, 128 gb Rom
+1004
+samsung galaxy flip
+50000.00
+5g 8gb ram
+1005
+samsung galaxy s22
+60000.00
+5g 8gb ram
+1006
+google pixel 7 pro
+69999.00
+128gb 12gb ram
+1007
+samsung galaxy s23
+79500.00
+5g 8gb ram
+1008
+Apple Iphone 14+
+90000.00
+A14 chip
+1009
+samsung galaxy s22 ultra
+99999.00
+5g 45Mp Camera

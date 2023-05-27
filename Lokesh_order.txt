@@ -1,0 +1,18 @@
+Order Details - Date: Sat May 27 08:52:41 2023
+Product Name: Apple Iphone 14+
+Price: 90000.00
+Description: A14 chip
+---------------------------------
+Product Name: samsung galaxy s22 ultra
+Price: 99999.00
+Description: 5g 45Mp Camera
+---------------------------------
+Order Details - Date: Sat May 27 09:00:00 2023
+Product Name: Apple Iphone 14+
+Price: 90000.00
+Description: A14 chip
+---------------------------------
+Product Name: samsung galaxy s22 ultra
+Price: 99999.00
+Description: 5g 45Mp Camera
+---------------------------------
